@@ -1,2 +1,2 @@
 # DSA-Sheet
-DSA from scrath
+DSA from scratch 
